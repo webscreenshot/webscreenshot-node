@@ -19,6 +19,7 @@
     "url2png"
   ],
   "author": "Andy Feliciotti",
+  "license": "ISC",
   "homepage": "https://webscreenshot.io/",
   "dependencies": {
     "crypto-js": "^4.1.1",
