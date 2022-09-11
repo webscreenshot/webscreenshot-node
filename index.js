@@ -7,7 +7,7 @@ module.exports = (apikey, apisecret = null, prefix = DEFAULT_ENDPOINT) => {
   return {
     screenshotUrl: options => {
       const query = qs.stringify(options);
-      if (secret) {
+      if (apisecret) {
         const token = generateApiToken(query, apisecret);
         return `${prefix}${apikey}/${token}/${options.format || 'png'}?${query}`;
       } else {
