@@ -1,0 +1,27 @@
+{
+  "name": "webscreenshot-io",
+  "version": "1.0.0",
+  "description": "Generate screenshots with Node.js using Webscreenshot.io API.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webscreenshot/webscreenshot-node.git"
+  },
+  "keywords": [
+    "webscreenshot",
+    "webscreenshot.io",
+    "screenshots",
+    "screenshot",
+    "phantomjs",
+    "chrome",
+    "headless",
+    "puppeteer",
+    "url2png"
+  ],
+  "author": "Andy Feliciotti",
+  "homepage": "https://webscreenshot.io/",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "qs": "^6.11.0"
+  }
+}
