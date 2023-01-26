@@ -1,6 +1,6 @@
 # WebScreenshot.io Screenshot API
 
-Generate screenshots of web pages using the WebScreenshot.io API. Per
+Generate screenshots of web pages using the WebScreenshot.io API. Perfect for generating thumbnails of web pages, or for generating screenshots of web pages for use in your own applications.
 
 Sign up for an API key and secret at [WebScreenshot.io](https://webscreenshot.io).
 
