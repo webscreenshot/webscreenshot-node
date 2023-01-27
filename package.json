@@ -20,7 +20,7 @@
   ],
   "author": "Andy Feliciotti",
   "license": "ISC",
-  "homepage": "https://webscreenshot.io/",
+  "homepage": "https://webscreenshot.io",
   "dependencies": {
     "crypto-js": "^4.1.1",
     "qs": "^6.11.0"
